@@ -1,10 +1,11 @@
-# Volatility Radar
+# Contact Information
 
-For contact please open - https://forms.gle/wujdq4wTPtu4GY8W6
+# Need Help?
+If you have any questions, issues, or feature requests, please reach out to us directly at:
+📧 web.horbach@gmail.com
 
-# Privacy Policy
-Key points:
-- No personal data collected — only on-device UserDefaults preferences
-- Third parties named: RapidAPI/Yahoo Finance (no user data sent), Apple StoreKit (handles payments), local APNs only
-- CCPA compliant by design — nothing to disclose/delete/sell
-- Children's privacy section (required by Apple)
+We typically respond within 48 hours.
+
+# Contact form
+In case you would like to use the contact form, please open - https://forms.gle/wujdq4wTPtu4GY8W6
+
